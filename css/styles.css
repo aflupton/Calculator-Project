@@ -2,10 +2,6 @@
   padding: 5px;
   font-size: 20pt;
 }
-.btn {
-  font-size: 20pt;
-  font-weight: 400;
-}
 #output2 {
   padding: 5px;
   font-size: 20pt;
@@ -17,4 +13,19 @@
 #output4 {
   padding: 5px;
   font-size: 20pt;
+}
+h1 {
+  border-radius: 10px;
+  background-color: #999999;
+  padding: 10px;
+  color: #f7f7f7;
+}
+.btn {
+  font-size: 20pt;
+  font-weight: 400;
+  border-radius: 10px;
+  background-color: #ffe4e1;
+}
+.col-md-6 {
+  float: left;
 }
